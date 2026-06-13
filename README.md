@@ -21,11 +21,6 @@
 - Wooldridge, J., *Econometric Analysis of Cross-Section and Panel Data*, MIT Press, 2010
 - Cameron, A. C. & Trivedi, P. K., *Microeconometrics: Methods and Applications*
 
-## 作者
-
-**Liang Wang (王亮)** — 暨南大学经济学院  
-学号: 202320171006
-
 ## 许可
 
 MIT License
